@@ -1,2 +1,2 @@
 # StudySync.Web
-My clone of Webiste StudySync
+Website Link: https://ubet123.github.io/StudySync.Web/
